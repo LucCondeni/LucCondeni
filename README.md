@@ -8,7 +8,7 @@ I'm self-learning Postgres SQL, Tableau, and R 😀
 
 ## Projects  :books:
 
-Mainly working on a portfolio: 
+Working on a portfolio: 
 
   - [SQL Portfolio](https://github.com/BigMadBoi/SQL-Portfolio "SQL Portfolio")
 
