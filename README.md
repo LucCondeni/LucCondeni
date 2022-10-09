@@ -14,7 +14,7 @@ Working on a portfolio:
 
 ## Learning focus  :mag:
 
-- Learning SQL in Postgres SQL and Big Query
+- Learning SQL in Postgres SQL, Big Query, and MySQL
 
 - R through RStudio 
 
