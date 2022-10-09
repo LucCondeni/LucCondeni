@@ -4,7 +4,7 @@
 
 My name is Lucas Condeni 🧔‍♂️  
 
-I'm self-learning Postgres SQL, Tableau, and R 😀 
+I'm self-learning Postgres SQL, Tableau, and R 
 
 ## Projects  :books:
 
