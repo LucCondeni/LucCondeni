@@ -2,8 +2,6 @@
 
 ## About me  :loud_sound:
 
-My name is Lucas Condeni 🧔‍♂️  
-
 I'm self-learning Python and MYSQL
 
 ## Projects  :books:
