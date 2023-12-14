@@ -4,7 +4,7 @@
 
 My name is Lucas Condeni 🧔‍♂️  
 
-I'm self-learning Postgres SQL, Tableau, and R 
+I'm self-learning Python and MYSQL
 
 ## Projects  :books:
 
@@ -14,11 +14,11 @@ Working on a portfolio:
 
 ## Learning focus  :mag:
 
-- Learning SQL in Postgres SQL, Big Query, and MySQL
+-Python
 
-- R through RStudio 
+- MYSQL 
 
-- Visualization in Tableau
+- Visualization in Power BI 
 
 <!---
 LucCondeni/LucCondeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
