@@ -2,7 +2,7 @@
 
 ## About me  :loud_sound:
 
-I'm self-learning Python and MYSQL
+Learning Python and MYSQL
 
 ## Projects  :books:
 
